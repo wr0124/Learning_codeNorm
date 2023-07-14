@@ -1,2 +1,2 @@
-# Learning_codeNorm
-how to write code profession
+# Learning_coding_professionally
+how to write code professionally
